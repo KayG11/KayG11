@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 I'm Kagiso a.k.a Kay</h1>
+<h1 align="center">Hello 👋 I'm Kagiso a.k.a Kay</h1>
 
 ###
 
@@ -60,11 +60,11 @@
 ###
 
 <!-- GitHub Stats -->
-<h3 align="left">🔥 My GitHub Stats:</h3>
+<h3 align="center">🔥 My GitHub Stats:</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayG11&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
-</div>
+</p>
 
 ###
 
