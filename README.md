@@ -59,7 +59,8 @@
 <h3 align="center">🔥 My GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayG11&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KayG11&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ###
